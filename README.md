@@ -1,3 +1,3 @@
-# comp206
+# projects
 
-this repository is all the homework/exercises I did for my comp 206 class.
+this repository is some small code/projects that I did
