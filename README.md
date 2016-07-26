@@ -1,3 +1,3 @@
 # projects
 
-this repository is some small code/projects that I did
+this repository has the code to the linkedLn like website that I create with some friends for a homework
